@@ -1,0 +1,149 @@
+[
+    {
+        "numero":1,
+        "descripcion": "Lucía la Llama comenta: 'Hoy no tengo ganas de jugar, mejor nos vemos mañana.'",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+      {
+        "numero":2,
+        "descripcion": "Ana la Rana se acerca a Pablo el Topo mientras le grita",
+        "correcta": "RESPUESTA AGRESIVA"
+      },
+      {
+        "numero":3,
+        "descripcion": "Sofía la Serpiente dice: 'No me gusta que me llamen así, llámame por mi nombre.'",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+   
+    {
+      "numero":4,
+      "descripcion": "Luca la Tortuga le grita a Carolina la Loba diciendo \"¡Eres tonta y no sabes jugar!\"",
+      "correcta": "RESPUESTA AGRESIVA"
+    },
+    {
+        "numero":5,
+        "descripcion": "Lucía la Llama dice: \"Me gustaría que me escucharas cuando hablo\".",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+    {
+      "numero":6,
+      "descripcion": "Fernando el Foca cruza los brazos y se aleja sin decir nada cuando alguien le habla.",
+      "correcta": "RESPUESTA INHIBIDA"
+    },
+    {
+      "numero":7,
+      "descripcion": "Sofía la Serpiente empuja a Tomás el Tigre porque no quiere compartir el juguete.",
+      "correcta": "RESPUESTA AGRESIVA"
+    },
+    {
+      "numero":8,
+      "descripcion": "Juan el Jaguar hace una mueca y se ríe de otro sin decirle nada directamente.",
+      "correcta": "RESPUESTA AGRESIVA"
+
+    },
+    {
+        "numero":9,
+        "descripcion": "Tengo una idea que tal si...'",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+    {
+        "numero":10,
+        "descripcion": "Laura la Liebre pregunta: '¿Podrías explicarme eso otra vez? No entendí muy bien.'",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+    {
+      "numero":11,
+      "descripcion": "Carlos el Conejo se sienta solo en un rincón sin mirar a nadie después de un conflicto.",
+      "correcta": "RESPUESTA INHIBIDA"
+    },
+    {
+      "numero":12,
+      "descripcion": "Martín el Mono tira un juguete al suelo porque no le gusta cómo juegan los demás.",
+      "correcta": "RESPUESTA AGRESIVA"
+    },
+    {
+        "numero":13,
+        "descripcion": "Lucía la Llama se queda callada cuando alguien se lleva su juguete.",
+        "correcta": "RESPUESTA INHIBIDA"
+      },
+      {
+        "numero":14,
+        "descripcion": "Fernando el Foca responde: 'Prefiero no jugar eso ahora, ¿podemos hacer otra cosa?'",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+      {
+        "numero":15,
+        "descripcion": "Fernando el Foca baja la mirada y no responde cuando le hacen una pregunta.",
+        "correcta": "RESPUESTA INHIBIDA"
+      },
+      {
+        "numero":16,
+        "descripcion": "Carlos el Conejo no dice nada aunque otro niño lo empuje accidentalmente.",
+        "correcta": "RESPUESTA INHIBIDA"
+      },
+      {
+        "numero":17,
+        "descripcion": "Tomás el Tigre finge no escuchar cuando alguien lo invita a jugar.",
+        "correcta": "RESPUESTA INHIBIDA"
+      },
+      {
+        "numero":18,
+        "descripcion": "Sofía la Serpiente se sienta sola sin participar aunque quiere unirse al grupo.",
+        "correcta": "RESPUESTA INHIBIDA"
+      },
+      {
+        "numero":19,
+        "descripcion": "Pablo el Topo guarda silencio aunque tiene una idea buena para compartir.",
+        "correcta": "RESPUESTA INHIBIDA"
+      },
+      {
+        "numero":20,
+        "descripcion": "María la Mariposa se va sin decir nada cuando alguien no la deja hablar.",
+        "correcta": "RESPUESTA INHIBIDA"
+      },
+      {
+        "numero":21,
+        "descripcion": "Laura la Liebre no pide ayuda aunque no entiende cómo hacer algo.",
+        "correcta": "RESPUESTA INHIBIDA"
+      },
+      {
+        "numero":22,
+        "descripcion": "Ana la Rana agacha la cabeza cuando le toca hablar frente al grupo.",
+        "correcta": "RESPUESTA INHIBIDA"
+      },
+      {
+        "numero":23,
+        "descripcion": "Martín el Mono no protesta aunque le tomen su mochila sin permiso.",
+        "correcta": "RESPUESTA INHIBIDA"
+      },{
+        "numero":24,
+        "descripcion": "Lucía la Llama dice: 'Por favor, déjame terminar de hablar antes de opinar' .",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+      {
+        "numero":25,
+        "descripcion": "Carlos el Conejo comenta: 'Me gustaría jugar también, ¿puedo unirme?'",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+      {
+        "numero":26,
+        "descripcion": "María la Mariposa comenta: 'Estoy triste porque no me dejaron elegir, ¿podemos votar la próxima vez?'",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+      {
+        "numero":27,
+        "descripcion": "Tomás el Tigre dice: 'Me encanta jugar contigo, pero prefiero turnarnos.'",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+      {
+        "numero":28,
+        "descripcion": "Lucía la Llama comenta: 'Hoy no tengo ganas de jugar, mejor nos vemos mañana.'",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+      {
+        "numero":29,
+        "descripcion": "Ana la Rana explica: 'Me molesta cuando ríen sin decir por qué, prefiero hablar con respeto.'",
+        "correcta": "RESPUESTA ASERTIVA"
+      }
+
+  ]

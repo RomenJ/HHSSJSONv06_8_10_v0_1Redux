@@ -1,0 +1,281 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Fuente principal */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+/* Contenedor principal */
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  background: #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+}
+
+/* Encabezados */
+h1,
+h2,
+h3 {
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #343a40;
+}
+
+/* Títulos */
+h1 {
+  font-size: 3rem;
+  color: #3498db;
+  text-align: center;
+  margin-bottom: 2rem;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #2ecc71;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.8rem;
+  color: #e74c3c;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+/* Texto general */
+p {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 1.5rem;
+  line-height: 1.8;
+}
+
+/* Imágenes */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Separación entre botones */
+.botones-contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+/* Estilo base de los botones */
+.btn {
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  padding: 1rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  text-align: center;
+  border-radius: 0.5rem;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  cursor: pointer;
+  display: inline-block;
+  color: #fff;
+  background-color: #3498db;
+  border: none;
+  margin: 1rem 0;
+}
+
+/* Efectos comunes */
+.btn:hover {
+  transform: translateY(-2px);
+  background-color: #0b5ed7;
+  color: white;
+  border-radius: 60px;
+}
+
+/* Botón Rectangular a Redondo - Azul */
+.btn-rect-to-round--blue {
+  border: 2px solid rgb(58, 134, 255);
+  color: rgb(58, 134, 255);
+  background: transparent;
+}
+
+.btn-rect-to-round--blue:hover {
+  border-color: rgb(58, 134, 255);
+  background: rgb(58, 134, 255);
+  color: white;
+}
+
+/* Botón Rectangular a Redondo - Naranja */
+.btn-rect-to-round--orange {
+  border: 2px solid rgb(254, 174, 0);
+  color: rgb(254, 174, 0);
+  background: transparent;
+}
+
+.btn-rect-to-round--orange:hover {
+  border-color: rgb(254, 174, 0);
+  background: rgb(254, 174, 0);
+  color: white;
+}
+
+/* Efectos comunes */
+.btn:hover {
+  transform: translateY(-2px);
+}
+
+.btn-tres {
+  background-color: #5e3abfc7;
+  border: none;
+  color: white;
+}
+.btn-dos{
+background-color: #f02929c7;
+  border: none;
+  color: white;
+
+}
+
+.btn-uno{
+
+ background-color: #1e8b03fb;
+  border: none;
+  color: white;
+
+}
+
+.btn-uno:hover,.btn-tres:hover, .btn-dos:hover   {
+  background-color: #e6e4ecaa;
+  color:black;
+}
+
+.btn-outline-secondary {
+  border-color: #6c757d;
+  color: #6c757d;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #6c757d;
+  color: white;
+}
+
+
+
+
+
+
+/* Tarjetas del juego (vista test) */
+.card {
+  border-radius: 0.75rem;
+  border: 1px solid #dee2e6;
+  box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+.card p.lead {
+  font-size: 1.1rem;
+}
+
+.btn-group .btn {
+  border-radius: 0.5rem;
+  font-weight: 500;
+}
+
+#descripcion,
+#mensaje {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+/* Acordiones (vista definiciones) */
+.accordion-button {
+  font-size: 1.6rem;
+  color: #333;
+  background: #f9f9f9;
+  border: none;
+  border-radius: 10px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.accordion-button:hover {
+  background: #e7e7e7;
+  color: #3498db;
+}
+
+.accordion-button:focus {
+  outline: none;
+}
+
+.accordion-body {
+  font-size: 1.4rem;
+  color: #555;
+  padding: 1.5rem;
+}
+
+.accordion-body ul {
+  list-style-type: disc;
+  padding-left: 2rem;
+}
+
+/* Estilo para ejemplos */
+.example {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: #f9f9f9;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Iconos */
+.icon {
+  font-size: 2rem;
+  color: #3498db;
+  margin-right: 1rem;
+}
+
+/*img1*/
+.img1{
+
+    display: block;
+    margin: auto;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+
+  .btn-group-vertical.gap-3 .btn {
+    font-size: 1rem;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+  }
+
+  h3 {
+    font-size: 1.6rem;
+  }
+}
+.orange{
+  color:orange;
+}

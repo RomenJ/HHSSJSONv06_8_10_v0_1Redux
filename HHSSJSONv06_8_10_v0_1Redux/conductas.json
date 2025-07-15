@@ -1,0 +1,55 @@
+[
+    {
+        "numero":1,
+        "descripcion": "Lucía la Llama comenta: 'Hoy no tengo ganas de jugar, mejor nos vemos mañana.'",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+      {
+        "numero":2,
+        "descripcion": "Ana la Rana se acerca a Pablo el Topo mientras le grita",
+        "correcta": "RESPUESTA AGRESIVA"
+      },
+      {
+        "numero":3,
+        "descripcion": "Sofía la Serpiente dice: 'No me gusta que me llamen así, llámame por mi nombre.'",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+   
+    {
+      "numero":4,
+      "descripcion": "Luca la Tortuga le grita a Carolina la Loba diciendo \"¡Eres tonta y no sabes jugar!\"",
+      "correcta": "RESPUESTA AGRESIVA"
+    },
+    {
+        "numero":5,
+        "descripcion": "Lucía la Llama dice: \"Me gustaría que me escucharas cuando hablo\".",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+    {
+      "numero":6,
+      "descripcion": "Fernando el Foca cruza los brazos y se aleja sin decir nada cuando alguien le habla.",
+      "correcta": "RESPUESTA INHIBIDA"
+    },
+    {
+      "numero":7,
+      "descripcion": "Sofía la Serpiente empuja a Tomás el Tigre porque no quiere compartir el juguete.",
+      "correcta": "RESPUESTA AGRESIVA"
+    },
+    {
+      "numero":8,
+      "descripcion": "Juan el Jaguar hace una mueca y se ríe de otro sin decirle nada directamente.",
+      "correcta": "RESPUESTA AGRESIVA"
+
+    },
+    {
+        "numero":9,
+        "descripcion": "Tengo una idea que tal si...'",
+        "correcta": "RESPUESTA ASERTIVA"
+      },
+    {
+        "numero":10,
+        "descripcion": "Laura la Liebre pregunta: '¿Podrías explicarme eso otra vez? No entendí muy bien.'",
+        "correcta": "RESPUESTA ASERTIVA"
+      }
+   
+  ]
